@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.4d3590ce.css",
+    "main.js": "/Portfolio/static/js/main.f9ede4ce.js",
+    "static/media/foods.png": "/Portfolio/static/media/foods.a37097c42fd4ce5659ba.png",
+    "static/media/photography.png": "/Portfolio/static/media/photography.ab89e02a86cbd1a71c66.png",
+    "static/media/pos.png": "/Portfolio/static/media/pos.1d3d6b8a8209f8ac1446.png",
+    "static/media/realestate.png": "/Portfolio/static/media/realestate.2036c5c31f9acaa56b36.png",
+    "static/media/acc2.jpg": "/Portfolio/static/media/acc2.cd166485a204f12ae3a2.jpg",
+    "static/media/logo.png": "/Portfolio/static/media/logo.2d3f93ce14d7a665898f.png",
+    "static/media/profile.png": "/Portfolio/static/media/profile.962aa179e030a4b49f65.png",
+    "static/media/pp.png": "/Portfolio/static/media/pp.6a2d001ad8b5d78cf2bb.png",
+    "static/media/excel.png": "/Portfolio/static/media/excel.54068a0f20610bf0a3ca.png",
+    "static/media/calculator.png": "/Portfolio/static/media/calculator.7164e1148f87f6901330.png",
+    "static/media/vscode.png": "/Portfolio/static/media/vscode.19edc3fbac1c451f289d.png",
+    "static/media/word.png": "/Portfolio/static/media/word.5ccefd0e77664fec2085.png",
+    "static/media/seu.jpg": "/Portfolio/static/media/seu.021f755e4235b6f0f256.jpg",
+    "static/media/Java.png": "/Portfolio/static/media/Java.6c1a3b5f7e2d535bff5b.png",
+    "static/media/react.png": "/Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/acc.jpg": "/Portfolio/static/media/acc.548aeccdaad8acfdab73.jpg",
+    "static/media/mongo.png": "/Portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/github.png": "/Portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/ai.png": "/Portfolio/static/media/ai.a3ace4a2dfcb8b4b4ea5.png",
+    "static/media/html.png": "/Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/ps.png": "/Portfolio/static/media/ps.4bcf5b136b31fe63df6a.png",
+    "static/media/tailwind.png": "/Portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Portfolio/index.html",
+    "main.4d3590ce.css.map": "/Portfolio/static/css/main.4d3590ce.css.map",
+    "main.f9ede4ce.js.map": "/Portfolio/static/js/main.f9ede4ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d3590ce.css",
+    "static/js/main.f9ede4ce.js"
+  ]
+}
