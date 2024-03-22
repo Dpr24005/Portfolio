@@ -20,7 +20,7 @@ const Home = () => {
 stronger team player and I'm capable of taking responsibilities, 
 challenges and able to work well under pressure. I am seeking an 
 opportunity to enhance my professional knowledge and skills while 
-making a useful
+making a useful.
         </p>
 
         <div>
